@@ -29,7 +29,13 @@
 
 + https://ai.google/
 
-##### Python
+#### C++
+
++ https://www.learncpp.com/
++ https://en.cppreference.com/
++ https://www.cplusplus.com/
+
+#### Python
 
 + http://www.pythonchallenge.com/
 
@@ -62,4 +68,3 @@ Links:
 
 https://pages.github.com/
 https://jekyllrb.com/
-
