@@ -59,6 +59,8 @@ Links:
 
 | Name                                 | Link                                   |
 | :----------------------------------- | :------------------------------------- |
+|Corne Keyboard|https://github.com/foostan/crkbd|
+|ErgoDash Keyboard|https://github.com/omkbd/ErgoDash|
 | Keyboard Forum                       | https://geekhack.org/                  |
 | Quantum Mechanical Keyboard Firmware | https://qmk.fm/                        |
 | ZMK                                  | https://zmkfirmware.dev/               |
