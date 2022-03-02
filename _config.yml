@@ -1,1 +1,5 @@
+title: Tempero Homepage
+# logo: /resources/img/
+description: Page for help
+show_downloads: true
 theme: jekyll-theme-minimal
