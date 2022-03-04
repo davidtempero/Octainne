@@ -1,5 +1,25 @@
 # David Tempero
 
+## Index
+
+### Pages
+<ul>
+  {% for pages in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+### Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Learning
 
 ### Sites
@@ -70,3 +90,7 @@ Links:
 
 https://pages.github.com/
 https://jekyllrb.com/
+
+## Jekyll
+
+[Jekyll page](./jekyll/jekyll.html)
