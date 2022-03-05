@@ -18,3 +18,7 @@ title: "Home"
     </li>
   {% endfor %}
 </ul>
+
+[Contact](./contact.md)
+
+[About](./about.md)

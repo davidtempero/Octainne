@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello World!"
 date: 2022-02-28 12:00:00 -0000
-categories: TEST
 ---
 # Welcome
 
