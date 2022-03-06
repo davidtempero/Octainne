@@ -5,7 +5,9 @@ title: "Projects"
 
 # Projects
 
-## Split Keyboard
+## Split Keyboard   
+
+[Mechanical Keyboard Reddit](https://www.reddit.com/r/mechmarket/)
 
 Links:
 
@@ -15,34 +17,45 @@ Links:
 | ErgoDash Keyboard | https://github.com/omkbd/ErgoDash |
 | Keyboard Forum    | https://geekhack.org/             |
 
-## Controllers
+### Controllers
 
 | Name      | Link                                             |
 | :-------- | :----------------------------------------------- |
 | nRFmicro  | https://github.com/joric/nrfmicro/wiki           |
 | BlueMicro | https://github.com/jpconstantineau/BlueMicro_BLE |
 
-## Firmware
+### Firmware
 
 | Name                                 | Link                     |
 | :----------------------------------- | :----------------------- |
 | Quantum Mechanical Keyboard Firmware | https://qmk.fm/          |
 | ZMK                                  | https://zmkfirmware.dev/ |
 
-## Shops
+### Shops
 
-| Name             | Link                                |
-| :--------------- | :---------------------------------- |
-| nice!nano Store  | https://nicekeyboards.com           |
-| BlueMicro Store  | https://store.jpconstantineau.com   |
-| Pohjola Works    | https://pohjola.works               |
-| Boardsource      | https://boardsource.xyz             |
-| KEYHIVE          | https://keyhive.xyz                 |
-| Little Keyboards | https://www.littlekeyboards.com     |
-| mechboards       | https://mechboards.co.uk            |
-| splitkb.com      | https://splitkb.com                 |
-| Daily Clack      | https://dailyclack.com              |
-| ampastore        | https://www.tokopedia.com/ampastore |
-| KEYCAPSSS        | https://keycapsss.com/              |
+| Name                                                 | Location |
+| :--------------------------------------------------- | :------- |
+| [BlueMicro Store](https://store.jpconstantineau.com) | ?        |
+| [Pohjola Works](https://pohjola.works)               |          |
+| [Boardsource](https://boardsource.xyz)               |          |
+| [KEYHIVE](https://keyhive.xyz)                       |          |
+| [Little Keyboards](https://www.littlekeyboards.com)  |          |
+| [mechboards](https://mechboards.co.uk)               | EU       |
+| [splitkb.com](https://splitkb.com)                   | EU       |
+| [Daily Clack](https://dailyclack.com)                |          |
+| [ampastore](https://www.tokopedia.com/ampastore)     |          |
+| [KEYCAPSSS](https://keycapsss.com/)                  | EU       |
+| [EloquentClicks](https://www.eloquentclicks.com/)    | EU       |
+| https://skinflint.co.uk/                             | EU       |
+| https://mykeyboard.eu/                               | EU       |
+| https://www.candykeys.com/                           | EU       |
+| https://falba.tech/                                  | EU       |
+| http://www.mechsupply.co.uk/products                 | EU       |
+| https://www.theteleport.de/                          | EU       |
+| https://oblotzky.industries/                         | EU       |
+| https://loob.no/                                     | EU       |
+|                                                      | EU       |
+|                                                      | EU       |
+|                                                      | EU       |
 
 [Back](./index.md)
