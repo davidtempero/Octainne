@@ -20,6 +20,7 @@ Links:
 ### Controllers
 
 | Name      | Link                                             |
+|nice!nano|https://nicekeyboards.com/nice-nano|
 | :-------- | :----------------------------------------------- |
 | nRFmicro  | https://github.com/joric/nrfmicro/wiki           |
 | BlueMicro | https://github.com/jpconstantineau/BlueMicro_BLE |
