@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Programming"
 ---
-
-# Programming
 
 
 ## General
@@ -52,5 +50,3 @@ title: "Programming"
 * https://amethyst.rs/
 * https://www.piston.rs
 * https://bevyengine.org/
-
-[Back](./index.md)

@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Projects"
 ---
-
-# Projects
 
 ## Split Keyboard   
 
@@ -55,8 +53,3 @@ Links:
 | https://www.theteleport.de/                          | EU       |
 | https://oblotzky.industries/                         | EU       |
 | https://loob.no/                                     | EU       |
-|                                                      | EU       |
-|                                                      | EU       |
-|                                                      | EU       |
-
-[Back](./index.md)

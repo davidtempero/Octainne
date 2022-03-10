@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: page
 title: "Programming"
 ---
-
-# Electronics
 
 ## KiCad
 
 Courses:
 + test
-
-[Back](./index.md)
