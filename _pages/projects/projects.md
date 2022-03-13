@@ -3,6 +3,11 @@ layout: page
 title: "Projects"
 ---
 
+- [Split Keyboard](#split-keyboard)
+  - [Controllers](#controllers)
+  - [Firmware](#firmware)
+  - [Shops](#shops)
+
 ## Split Keyboard   
 
 [Mechanical Keyboard Reddit](https://www.reddit.com/r/mechmarket/)
@@ -18,8 +23,8 @@ Links:
 ### Controllers
 
 | Name      | Link                                             |
-|nice!nano|https://nicekeyboards.com/nice-nano|
 | :-------- | :----------------------------------------------- |
+| nice!nano | https://nicekeyboards.com/nice-nano              |
 | nRFmicro  | https://github.com/joric/nrfmicro/wiki           |
 | BlueMicro | https://github.com/jpconstantineau/BlueMicro_BLE |
 

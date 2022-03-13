@@ -1,10 +1,13 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.framework.id": "gatsby",
-  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "other",
+  "frontMatter.content.publicFolder": "",
   "frontMatter.content.pageFolders": [
     {
-      "path": "[[workspace]]/assets/img"
+      "path": "[[workspace]]/_pages"
+    },
+    {
+      "path": "[[workspace]]/_posts"
     }
   ]
 }

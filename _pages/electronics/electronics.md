@@ -5,20 +5,34 @@ date: 2022-03-11T23:56:30.210Z
 draft: false
 ---
 
-## PCBs
+- [KiCad](#kicad)
+  - [Installation](#installation)
+  - [Courses](#courses)
+    - [KiCost](#kicost)
+    - [KiCad StepUp](#kicad-stepup)
+- [FreeCad](#freecad)
+
 ## KiCad
 
-https://www.kicad.org/
+[Official Page](https://www.kicad.org/)
 
-Course:
-+ https://www.kicad.org/help/learning-resources/
-+ https://techexplorations.com/so/kicad-like-a-pro-3e-special-edition/
+KiCad is a ECAD open-source and free tool.
 
-### KiCost
+### Installation
+
+1. 
+
+### Courses
+
++ [Learning Resources @ www.kicad.org](https://www.kicad.org/help/learning-resources/)
++ [Kicad Like a Pro 3rd Special Edition @ techexplorations.com](https://techexplorations.com/so/kicad-like-a-pro-3e-special-edition/)
+
+
+#### KiCost
 
 https://github.com/xesscorp/KiCost
 
-### KiCad StepUp
+#### KiCad StepUp
 
 https://github.com/easyw/kicadStepUpMod/
 
