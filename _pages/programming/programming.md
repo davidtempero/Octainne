@@ -30,6 +30,20 @@ title: "Programming"
 + https://godbolt.org/
 + https://tio.run/
 
+## Learn platforms
+
++ https://www.codingame.com/
++ https://www.codecademy.com/
++ https://www.w3schools.com/
++ https://exercism.org/
++ https://www.codewars.com/
++ https://vim-adventures.com/
++ http://rosettacode.org/
++ https://www.bitdegree.org/
++ https://codecombat.com/
++ https://checkio.org/
++ https://www.hackerrank.com/
+
 ## Cyber Security
 
 + Hacks Planning -  https://www.hacksplaining.com/
