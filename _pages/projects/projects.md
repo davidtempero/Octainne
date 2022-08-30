@@ -30,31 +30,27 @@ Links:
 
 ### Firmware
 
-| Name                                 | Link                     |
-| :----------------------------------- | :----------------------- |
-| Quantum Mechanical Keyboard Firmware | [https://qmk.fm/](https://qmk.fm/)          |
+| Name                                 | Link                                                                                                                             |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Quantum Mechanical Keyboard Firmware | [https://qmk.fm/](https://qmk.fm/)                                                                                               |
 | ZMK                                  | [https://zmkfirmware.dev/](https://zmkfirmware.dev/)<br>[https://github.com/zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) |
 
 ### Shops
 
 | Name                                                 | Location |
 | :--------------------------------------------------- | :------- |
-| [BlueMicro Store](https://store.jpconstantineau.com) | ?        |
-| [Pohjola Works](https://pohjola.works)               |          |
-| [Boardsource](https://boardsource.xyz)               |          |
-| [KEYHIVE](https://keyhive.xyz)                       |          |
-| [Little Keyboards](https://www.littlekeyboards.com)  |          |
-| [mechboards](https://mechboards.co.uk)               | UK       |
-| [splitkb.com](https://splitkb.com)                   | EU       |
-| [Daily Clack](https://dailyclack.com)                |          |
-| [ampastore](https://www.tokopedia.com/ampastore)     |          |
-| [KEYCAPSSS](https://keycapsss.com/)                  | EU       |
-| [EloquentClicks](https://www.eloquentclicks.com/)    | EU       |
-| https://skinflint.co.uk/                             | EU       |
-| https://mykeyboard.eu/                               | EU       |
-| https://www.candykeys.com/                           | EU       |
-| https://falba.tech/                                  | EU       |
-| http://www.mechsupply.co.uk/products                 | EU       |
-| https://www.theteleport.de/                          | EU       |
-| https://oblotzky.industries/                         | EU       |
-| https://loob.no/                                     | EU       |
+| [BlueMicro Store](https://store.jpconstantineau.com) | USA      |
+| [Boardsource](https://boardsource.xyz)               | USA      |
+| [KEYHIVE](https://keyhive.xyz)                       | USA      |
+| [Little Keyboards](https://www.littlekeyboards.com)  | USA      |
+| [mechboards](https://mechboards.co.uk)               | EU - UK  |
+| [splitkb.com](https://splitkb.com)                   | EU - NL  |
+| [KEYCAPSSS](https://keycapsss.com/)                  | EU - DE  |
+| [EloquentClicks](https://www.eloquentclicks.com/)    | EU - ES  |
+| [FalbaTech](https://falba.tech/)                     | EU - PL  |
+| [MYKEYBOARD](https://mykeyboard.eu/)                 | EU - BEL |
+| [CANDYKEYS](https://www.candykeys.com/)              | EU - DE  |
+| [MECH SUPPLY](http://www.mechsupply.co.uk/)          | EU - UK  |
+| [The Teleport](https://www.theteleport.de/)          | EU - DE  |
+| [keyb](https://keyb.no/)                             | EU - NO  |
+| [OBLOTZKY Industries](https://oblotzky.industries/)  | EU - DE  |
