@@ -3,7 +3,21 @@ layout: page
 title: "Programming"
 ---
 
+## eLearning
 
+### Platforms
+
++ eDX - https://www.edx.org/
++ Pluralsight - https://www.pluralsight.com/
++ Coursera - https://www.coursera.org/
++ Udemy - https://www.udemy.com/
++ Udacity - https://www.udacity.com/
++ FreeCodeCamp - https://www.freecodecamp.org/
+
+### Youtube Channels
+
++ MIT OpenCourseWare - https://www.youtube.com/c/mitocw
++ FreeCodeCamp.org - https://www.youtube.com/c/Freecodecamp
 ## General
 
 + Documentation - https://devdocs.io/
@@ -18,12 +32,12 @@ title: "Programming"
 
 ## Cyber Security
 
-+ https://www.hacksplaining.com/
-+ https://tryhackme.com/
-+ https://cyberdefenders.org/
-+ https://www.hackthebox.com/
-+ https://blueteamlabs.online/
-+ https://letsdefend.io/
++ Hacks Planning -  https://www.hacksplaining.com/
++ Try Me Hack - https://tryhackme.com/
++ Cyber Defenders - https://cyberdefenders.org/
++ Hack the Box - https://www.hackthebox.com/
++ BlueTeam Labs - https://blueteamlabs.online/
++ Lets Defend - https://letsdefend.io/
 
 ## Artifical intelligence 
 
@@ -34,6 +48,7 @@ title: "Programming"
 + https://www.learncpp.com/
 + https://en.cppreference.com/
 + https://www.cplusplus.com/
++ https://isocpp.org/
 
 ## Python
 
@@ -44,7 +59,7 @@ title: "Programming"
 * https://doc.rust-lang.org/nomicon/index.html
 * https://rust-embedded.github.io/book/intro/index.html
 
-## Game Engines
+### Game Engines
 
 * https://arewegameyet.rs/
 * https://amethyst.rs/
