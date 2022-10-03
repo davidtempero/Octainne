@@ -5,19 +5,33 @@ title: "Programming"
 
 ## eLearning
 
-### Platforms
+### Learn platforms
 
++ Coding Game - https://www.codingame.com/
++ Codecademy - https://www.codecademy.com/
++ W3 School - https://www.w3schools.com/
++ Exercism - https://exercism.org/
++ CodeWars - https://www.codewars.com/
++ Rosetta Code - http://rosettacode.org/
++ Bit Degree - https://www.bitdegree.org/
++ Code Combat - https://codecombat.com/
++ CheckIO - https://checkio.org/
++ HackerRanker - https://www.hackerrank.com/
 + eDX - https://www.edx.org/
 + Pluralsight - https://www.pluralsight.com/
 + Coursera - https://www.coursera.org/
 + Udemy - https://www.udemy.com/
 + Udacity - https://www.udacity.com/
 + FreeCodeCamp - https://www.freecodecamp.org/
++ Vim Adventures - https://vim-adventures.com/
++ Tynker - https://www.tynker.com/
++ 
 
 ### Youtube Channels
 
 + MIT OpenCourseWare - https://www.youtube.com/c/mitocw
 + FreeCodeCamp.org - https://www.youtube.com/c/Freecodecamp
+
 ## General
 
 + Documentation - https://devdocs.io/
@@ -29,20 +43,6 @@ title: "Programming"
 
 + https://godbolt.org/
 + https://tio.run/
-
-## Learn platforms
-
-+ https://www.codingame.com/
-+ https://www.codecademy.com/
-+ https://www.w3schools.com/
-+ https://exercism.org/
-+ https://www.codewars.com/
-+ https://vim-adventures.com/
-+ http://rosettacode.org/
-+ https://www.bitdegree.org/
-+ https://codecombat.com/
-+ https://checkio.org/
-+ https://www.hackerrank.com/
 
 ## Cyber Security
 
@@ -57,21 +57,26 @@ title: "Programming"
 
 + https://ai.google/
 
-## C++
+
+### C++
 
 + https://www.learncpp.com/
 + https://en.cppreference.com/
 + https://www.cplusplus.com/
 + https://isocpp.org/
 
-## Python
+### Python
 
 + http://www.pythonchallenge.com/
 
-## Rust
+### Rust
 
 * https://doc.rust-lang.org/nomicon/index.html
 * https://rust-embedded.github.io/book/intro/index.html
+  
+* https://rustconf.com/
+* https://eurorust.eu/
+
 
 ### Game Engines
 
@@ -79,3 +84,8 @@ title: "Programming"
 * https://amethyst.rs/
 * https://www.piston.rs
 * https://bevyengine.org/
+
+### AWS
+
++ https://aws.amazon.com/pt/training/?nc2=h_ql_le_tc
++ https://killer.sh/
