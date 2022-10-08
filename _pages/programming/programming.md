@@ -25,7 +25,12 @@ title: "Programming"
 + FreeCodeCamp - https://www.freecodecamp.org/
 + Vim Adventures - https://vim-adventures.com/
 + Tynker - https://www.tynker.com/
-+ 
++ Roadmap.sh - https://roadmap.sh/
++ overAPI - https://overapi.com/
++ https://github.com/EbookFoundation/free-programming-books
++ https://github.com/codecrafters-io/build-your-own-x
++ https://github.com/MunGell/awesome-for-beginners
++ https://github.com/donnemartin/system-design-primer
 
 ### Youtube Channels
 
