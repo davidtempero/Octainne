@@ -66,9 +66,10 @@ title: "Programming"
 ### C++
 
 + https://www.learncpp.com/
-+ https://en.cppreference.com/
-+ https://www.cplusplus.com/
-+ https://isocpp.org/
++ Official C++ website - https://isocpp.org/
++ C++ Documentation - https://en.cppreference.com/
++ C++ Documentation - https://www.cplusplus.com/
++ Google C++ Library - https://abseil.io/
 
 ### Python
 
