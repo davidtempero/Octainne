@@ -64,6 +64,10 @@ title: "Programming"
 
 + https://ai.google/
 
+### Liquid
+
++ https://shopify.github.io/liquid/
+
 
 ### C++
 
