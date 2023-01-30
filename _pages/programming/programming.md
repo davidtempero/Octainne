@@ -8,6 +8,7 @@ title: "Programming"
 ### Learn platforms
 
 + Coding Game - https://www.codingame.com/
++ Codility_ - https://app.codility.com/programmers/
 + Codecademy - https://www.codecademy.com/
 + W3 School - https://www.w3schools.com/
 + Exercism - https://exercism.org/
@@ -31,6 +32,7 @@ title: "Programming"
 + https://github.com/codecrafters-io/build-your-own-x
 + https://github.com/MunGell/awesome-for-beginners
 + https://github.com/donnemartin/system-design-primer
++ https://www.bigocheatsheet.com/
 
 ### Youtube Channels
 
@@ -79,6 +81,7 @@ title: "Programming"
 
 * https://doc.rust-lang.org/nomicon/index.html
 * https://rust-embedded.github.io/book/intro/index.html
+* https://github.com/Keats/tera
   
 * https://rustconf.com/
 * https://eurorust.eu/
