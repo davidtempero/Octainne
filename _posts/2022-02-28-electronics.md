@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: posts
 title: Electronics
-date: 2022-03-11T23:56:30.210Z
-draft: false
 ---
 
 - [KiCad](#kicad)
