@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: posts
 title: "Programming"
 ---
 
@@ -63,6 +63,10 @@ title: "Programming"
 ## Artifical intelligence 
 
 + https://ai.google/
+
+### Liquid
+
++ https://shopify.github.io/liquid/
 
 
 ### C++

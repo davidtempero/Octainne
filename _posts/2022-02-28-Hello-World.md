@@ -1,8 +1,14 @@
 ---
-layout: post
+## Global
+layout: posts
+#permalink: default = /year/month/day/title.html
+published: true
+## Post Variables
+date: 2022-02-28 12:00:00 +0000
+categories: [test]
+## Custom Variables
 title:  "Hello World!"
-author: David
-date: 2022-02-28 12:00:00 -0000
+author: David Tempero
 ---
 
 **Hello world**, this is my first Jekyll blog post.
