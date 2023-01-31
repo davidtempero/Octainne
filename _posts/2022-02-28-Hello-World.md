@@ -1,6 +1,6 @@
 ---
 ## Global
-layout: post
+layout: posts
 #permalink: default = /year/month/day/title.html
 published: true
 ## Post Variables
