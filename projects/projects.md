@@ -1,6 +1,9 @@
 ---
-layout: posts
-title: "Projects"
+layout    : posts
+title     : "Projects"
+toc       : true
+sidebar:
+    nav   : "main"
 ---
 
 - [Split Keyboard](#split-keyboard)

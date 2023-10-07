@@ -1,6 +1,8 @@
 ---
 layout: posts
 title: Electronics
+sidebar:
+    nav: "main"
 ---
 
 - [KiCad](#kicad)
