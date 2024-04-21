@@ -18,21 +18,39 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: David Tempero Homepage
 email: davidtempero@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My homepage for sharing my resources
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  davidtempero
 
 # Build settings
 theme: minimal-mistakes-jekyll 
 plugins:
   - jekyll-feed
+  - jekyll-readme-index
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+
+# ------------------------
+# Plugins Config
+
+# readme_index
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+
+# ------------------------
 
 # Exclude from processing.
 # The following items will not be processed, by default.

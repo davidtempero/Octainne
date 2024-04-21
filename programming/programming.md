@@ -1,9 +1,6 @@
 ---
 layout  : single
 title   : "Programming"
-toc     : true
-sidebar:
-    nav: "main"
 ---
 
 ## eLearning

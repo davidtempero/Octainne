@@ -1,15 +1,15 @@
 ---
-layout    : posts
-title     : "Projects"
-toc       : true
-sidebar:
-    nav   : "main"
+layout  : single
+title   : "Projects"
 ---
 
-- [Split Keyboard](#split-keyboard)
-  - [Controllers](#controllers)
-  - [Firmware](#firmware)
-  - [Shops](#shops)
+# Projects
+
+- [Projects](#projects)
+  - [Split Keyboard](#split-keyboard)
+    - [Controllers](#controllers)
+    - [Firmware](#firmware)
+    - [Shops](#shops)
 
 ## Split Keyboard   
 
@@ -33,10 +33,10 @@ Links:
 
 ### Firmware
 
-| Name                                 | Link                                                                                                                             |
-| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| Quantum Mechanical Keyboard Firmware | [https://qmk.fm/](https://qmk.fm/)                                                                                               |
-| ZMK                                  | [https://zmkfirmware.dev/](https://zmkfirmware.dev/)<br>[https://github.com/zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) |
+| Name                                 | Link                                                 |
+| :----------------------------------- | :--------------------------------------------------- |
+| Quantum Mechanical Keyboard Firmware | [https://qmk.fm/](https://qmk.fm/)                   |
+| ZMK                                  | [https://zmkfirmware.dev/](https://zmkfirmware.dev/) |
 
 ### Shops
 
@@ -57,3 +57,4 @@ Links:
 | [The Teleport](https://www.theteleport.de/)          | EU - DE  |
 | [keyb](https://keyb.no/)                             | EU - NO  |
 | [OBLOTZKY Industries](https://oblotzky.industries/)  | EU - DE  |
+| [kriscables](https://kriscables.com/)                | EU - PT  |

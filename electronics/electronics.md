@@ -1,16 +1,17 @@
 ---
-layout: posts
+layout: single
 title: Electronics
-sidebar:
-    nav: "main"
 ---
 
-- [KiCad](#kicad)
-  - [Installation](#installation)
-  - [Courses](#courses)
-    - [KiCost](#kicost)
-    - [KiCad StepUp](#kicad-stepup)
-- [FreeCad](#freecad)
+# Electronics
+
+- [Electronics](#electronics)
+  - [KiCad](#kicad)
+    - [Installation](#installation)
+    - [Courses](#courses)
+      - [KiCost](#kicost)
+      - [KiCad StepUp](#kicad-stepup)
+  - [FreeCad](#freecad)
 
 ## KiCad
 
